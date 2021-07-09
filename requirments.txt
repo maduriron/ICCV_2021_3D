@@ -1,0 +1,9 @@
+torch==1.8.1+cu111
+torchvision==0.9.1+cu111
+torchaudio==0.8.1
+numpy==1.19.5
+pandas==1.1.5
+Pillow==8.2.0
+opencv-python==4.5.2
+SimpleITK==2.0.2
+tqdm==4.61.0
